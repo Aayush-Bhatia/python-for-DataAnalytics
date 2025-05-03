@@ -1,0 +1,7 @@
+Alice, 85
+Bob, 78
+Carol, 92
+David, 74
+Eve, 88
+Frank, 81
+Grace, 95
